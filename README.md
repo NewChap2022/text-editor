@@ -14,3 +14,6 @@ node.js, webpack, indexDB, serviceworker, manifest
 
 ## Screenshot
 <img src=".\screenshot.png" alt="screenshot" width ="892" height="520"/>
+
+## Link to deployed application
+https://limitless-stream-02271.herokuapp.com/
